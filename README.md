@@ -32,7 +32,7 @@
 
  <div style="display: inline_block"><br>
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,git,&theme=dark)](https://skills.thijs.gg)
 
 <div/>
 <br>
