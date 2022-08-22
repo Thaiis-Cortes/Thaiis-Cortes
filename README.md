@@ -3,7 +3,7 @@ Me chamo Thaís, sou estudante de desenvolvimento Web Front-End🚀🚀<br>
 Sócia no <a href="https://rodolfomori.com.br/front-end/">DevClub<a/> 💜💚
 
 
-<img src="https://picrew.me/shareImg/org/202208/338224_lAnYFDoA.png" align="right" height="130" width="130"> 
+
 
   
   
@@ -12,6 +12,12 @@ Sócia no <a href="https://rodolfomori.com.br/front-end/">DevClub<a/> 💜💚
   <img height="130em"  src="https://github-readme-stats.vercel.app/api?username=Thaiis-Cortes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaiis-Cortes&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
+
+<br>
+<img src="https://picrew.me/shareImg/org/202208/338224_lAnYFDoA.png" align="right" height="150" width="150"> 
+
+
+
 
  <div style="display: inline_block"><br>
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
