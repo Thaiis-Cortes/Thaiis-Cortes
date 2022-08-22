@@ -1,5 +1,6 @@
 ### Hey, Bem vindo ao meu perfil! 🤩
-Sou a Thaís, estudante de desinvolvimento Web Front-End🚀🚀
+Me chamo Thaís, sou estudante de desenvolvimento Web Front-End🚀🚀<br>
+Sócia no <a href="https://rodolfomori.com.br/front-end/">DevClub<a/> 💜💚
 
 
 <div align="center">
