@@ -1,6 +1,18 @@
-### Hey, Bem vindo ao meu perfil! 🤩
-Me chamo Thaís, sou estudante de desenvolvimento Web Front-End🚀🚀<br>
-Sócia no <a href="https://rodolfomori.com.br/front-end/">DevClub<a/> 💜💚
+## <h1 align="center"> Olá, me chamo Thaís!<br> Bem-vindo ao meu perfil!🤩</h1>
+<p align="center"> <em>"O mundo é a imaginação humana lançada para fora" 💮</em></p>
+
+
+
+<p>
+➡️Estudante de desenvolvimento Web Front-End🚀🚀
+<br>
+➡️Aluna e sócia no <a href="https://rodolfomori.com.br/front-end/">DevClub<a/> 💜💚<br>
+➡️Formada em administração🎓<br>
+
+
+
+</p>
+
 
 
   
@@ -11,17 +23,18 @@ Sócia no <a href="https://rodolfomori.com.br/front-end/">DevClub<a/> 💜💚
 </div>
 
 <br>
-<img src="https://picrew.me/shareImg/org/202208/338224_lAnYFDoA.png" align="right" height="150" width="150"> 
+<img src="https://picrew.me/shareImg/org/202208/338224_lAnYFDoA.png" align="right" height="150" width="150">
+
+
 
 
 
 
  <div style="display: inline_block"><br>
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <div/>
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,&theme=dark)](https://skills.thijs.gg)
+
+<div/>
 <br>
  
   
