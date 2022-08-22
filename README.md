@@ -9,8 +9,8 @@ Sócia no <a href="https://rodolfomori.com.br/front-end/">DevClub<a/> 💜💚
   
 <div align="center">
   <a href="https://github.com/Thaiis-Cortes">
-  <img height="130em"  src="https://github-readme-stats.vercel.app/api?username=Thaiis-Cortes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaiis-Cortes&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=Thaiis-Cortes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaiis-Cortes&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
 <br>
