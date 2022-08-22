@@ -3,7 +3,7 @@ Me chamo Thaís, sou estudante de desenvolvimento Web Front-End🚀🚀<br>
 Sócia no <a href="https://rodolfomori.com.br/front-end/">DevClub<a/> 💜💚
 
 
-<img src="https://picrew.me/shareImg/org/202208/338224_lAnYFDoA.png" align="right" height="150" width="150"> 
+<img src="https://picrew.me/shareImg/org/202208/338224_lAnYFDoA.png" align="right" height="130" width="130"> 
 
   
   
