@@ -3,10 +3,14 @@ Me chamo Thaís, sou estudante de desenvolvimento Web Front-End🚀🚀<br>
 Sócia no <a href="https://rodolfomori.com.br/front-end/">DevClub<a/> 💜💚
 
 
+<img src="https://picrew.me/shareImg/org/202208/338224_lAnYFDoA.png" align="right" height="150" width="150"> 
+
+  
+  
 <div align="center">
   <a href="https://github.com/Thaiis-Cortes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thaiis-Cortes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaiis-Cortes&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="130em"  src="https://github-readme-stats.vercel.app/api?username=Thaiis-Cortes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaiis-Cortes&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
  <div style="display: inline_block"><br>
@@ -23,4 +27,6 @@ Sócia no <a href="https://rodolfomori.com.br/front-end/">DevClub<a/> 💜💚
      <a href="https://www.linkedin.com/in/thaiscortes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <a href = "mailto:thacortes97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    </div>
+
+   <div>
 
